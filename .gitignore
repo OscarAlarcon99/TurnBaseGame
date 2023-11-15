@@ -37,3 +37,4 @@ sysinfo.txt
 *.unitypackage
 Project/UserSettings/Layouts/CurrentMaximizeLayout.dwlt
 *.dwlt
+*.meta
