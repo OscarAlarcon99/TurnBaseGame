@@ -31,7 +31,7 @@ public class SpawnManager : Singleton<SpawnManager>
     {
         SpawnObstacles();
 
-        SpawnProps();
+        //SpawnProps();
 
         TeamsSpawn();
 
