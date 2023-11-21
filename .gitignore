@@ -1,10 +1,10 @@
 [Ll]ibrary/
-[Ll]ogs/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-[Pp]lugins/
+Assets/AssetStoreTools*
+
 # Visual Studio cache directory
 .vs/
 
@@ -35,6 +35,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-Project/UserSettings/Layouts/CurrentMaximizeLayout.dwlt
-*.dwlt
-*.meta
