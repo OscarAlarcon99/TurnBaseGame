@@ -113,8 +113,8 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5855145951823645321}
-  - {fileID: 3642744114619824537}
   - {fileID: 3128213248320018269}
+  - {fileID: 3642744114619824537}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -163,7 +163,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5855145952248031927}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &398843558113445962
 MeshFilter:
@@ -237,11 +237,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 7fdaf9b1b7368074ea99e14a5b17b094, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7fdaf9b1b7368074ea99e14a5b17b094, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7fdaf9b1b7368074ea99e14a5b17b094, type: 3}
       propertyPath: m_LocalPosition.y
@@ -289,6 +289,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fdaf9b1b7368074ea99e14a5b17b094, type: 3}
+--- !u!1 &2315542679829171687 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 7fdaf9b1b7368074ea99e14a5b17b094, type: 3}
+  m_PrefabInstance: {fileID: 3234459870031016118}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &8458915368250162772
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2315542679829171687}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2, y: 0.99999964, z: 2}
+  m_Center: {x: 0, y: 0.49999982, z: 0}
 --- !u!4 &3128213248320018269 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 7fdaf9b1b7368074ea99e14a5b17b094, type: 3}
