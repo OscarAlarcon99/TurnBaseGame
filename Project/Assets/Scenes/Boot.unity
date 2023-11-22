@@ -437,6 +437,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1921702063}
+    - target: {fileID: 7941148308796252501, guid: d3348a8ff038fb54295f227aa3e02357, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: NewScene
+      objectReference: {fileID: 0}
     - target: {fileID: 7941148309465625396, guid: d3348a8ff038fb54295f227aa3e02357, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 

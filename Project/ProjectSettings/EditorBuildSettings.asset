@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/GameAI.unity
     guid: c57b0af81e78e2d4d8bf0a15ee50f9a0
+  - enabled: 1
+    path: Assets/Scenes/MateusTest/NewScene.unity
+    guid: 42a367f1b46a6674b90fe8d5426bf279
   m_configObjects: {}
