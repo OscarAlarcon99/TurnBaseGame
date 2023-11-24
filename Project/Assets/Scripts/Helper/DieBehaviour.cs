@@ -6,6 +6,7 @@ public class DieBehaviour : StateMachineBehaviour
 {
     bool isCountDown;
     float countDown;
+    public bool isHorse = false;
    
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
@@ -23,11 +24,19 @@ public class DieBehaviour : StateMachineBehaviour
 
             if (countDown <= 0)
             {
+                if (isHorse)
+                {
+                    ReactiveRider reactive = animator.gameObject.GetComponentInChildren<ReactiveRider>();
+                    GameObject rider;
+                    rider = reactive.rider;
+                    reactive.enabled = false;
+                    Destroy(rider);
+                }
+                
                 animator.enabled = false;
                 Destroy(animator.gameObject);
             }
         }
-
 
         if (isCountDown)
         {

@@ -15,8 +15,14 @@ public class Tags
 
 public enum CharacterType
 {
-    MEDIEVAL,
-    FUTURE,
+    COLOMBIAN,
+    SPANISH,
+}
+
+public enum CharacterMoveType
+{
+    WALK,
+    HORSE
 }
 
 public enum MusicLevel

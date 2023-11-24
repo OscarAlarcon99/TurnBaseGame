@@ -10,6 +10,7 @@ TagManager:
   - EnemyAI
   - PersonalStatsPanel
   - StatsPanel
+  - HandR
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - Ground
   - Character
   - Obstacle
-  - 
+  - HandR
   - 
   - 
   - 

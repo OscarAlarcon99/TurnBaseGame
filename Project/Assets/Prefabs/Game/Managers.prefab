@@ -49,15 +49,24 @@ MonoBehaviour:
   - {fileID: 2940042362921352954, guid: 45806020b5209284f841f66a20b47aa6, type: 3}
   - {fileID: 486469556058802108, guid: c910b0a6380485544a5a5334371fc79e, type: 3}
   - {fileID: 3783782984685763966, guid: b44b97dc2fdf61c41a3a3bb5f1509290, type: 3}
+  - {fileID: 6664016432762747658, guid: f21104960ead3304e839a07397c3b2d8, type: 3}
+  - {fileID: 4365155185574982603, guid: 22315c6371ff83440af62d93220499e2, type: 3}
   _futureTeam:
   - {fileID: 7871070135524757766, guid: 19bb0287e86974042b64b85a72c65e4d, type: 3}
   - {fileID: 6615823800167427085, guid: d34a811a14b658b448cb3f8dadef8a04, type: 3}
+  - {fileID: 3952430398348442102, guid: 34506ded587ff6c4a87a8be0d1cbd29a, type: 3}
+  - {fileID: 6273680258552125420, guid: a4abdafd1caec7f4c8d8f6bd61dcbc83, type: 3}
   _obstacles:
-  - {fileID: 467767051955192380, guid: e49829b15bdba3d4f9cb13f35c8f60f1, type: 3}
-  _props: []
+  - {fileID: 5933164461579128323, guid: 6cc76445391501dda8ef9608919e7449, type: 3}
+  - {fileID: 6258496110999044070, guid: 9fea3f738a721b642b10d0735a3c2ff4, type: 3}
+  - {fileID: 3992913877292486136, guid: 9c908bfc4527810428cae78e2eac3e46, type: 3}
+  - {fileID: 7825190487421419863, guid: f45f80d80cecde8479d856266aa043f6, type: 3}
+  _props:
+  - {fileID: 9173750690402455373, guid: 134c96ff51198e4cea360c89aaab1411, type: 3}
+  - {fileID: 8342448983144309027, guid: fcab16f0d26cd82dab4e96bf1ef5ecc5, type: 3}
   obstaclesLayerMask:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 384
 --- !u!1 &2809042414980856404
 GameObject:
   m_ObjectHideFlags: 0
@@ -253,6 +262,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 206207ba9027e8f4fb391985b3b5d300, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  infoHolder: {fileID: 0}
+  nameText: {fileID: 0}
+  player1name: 
+  player2name: 
 --- !u!1 &2809042416896419508
 GameObject:
   m_ObjectHideFlags: 0
