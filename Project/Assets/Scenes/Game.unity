@@ -2611,81 +2611,13 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _props.Array.size
-      value: 2
+      propertyPath: _medievalTeam.Array.size
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _props.Array.data[0]
+      propertyPath: _medievalTeam.Array.data[4]
       value: 
-      objectReference: {fileID: 9173750690402455373, guid: 134c96ff51198e4cea360c89aaab1411, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _props.Array.data[1]
-      value: 
-      objectReference: {fileID: 8342448983144309027, guid: fcab16f0d26cd82dab4e96bf1ef5ecc5, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _props.Array.data[2]
-      value: 
-      objectReference: {fileID: 1312779417292632018, guid: 4e2cc68a60aeadc7294133b27bb32d51, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _props.Array.data[3]
-      value: 
-      objectReference: {fileID: 3992913877292486136, guid: 9c908bfc4527810428cae78e2eac3e46, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _props.Array.data[4]
-      value: 
-      objectReference: {fileID: 6258496110999044070, guid: 9fea3f738a721b642b10d0735a3c2ff4, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _obstacles.Array.size
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _futureTeam.Array.size
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _obstacles.Array.data[0]
-      value: 
-      objectReference: {fileID: 5933164461579128323, guid: 6cc76445391501dda8ef9608919e7449, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _obstacles.Array.data[1]
-      value: 
-      objectReference: {fileID: 6258496110999044070, guid: 9fea3f738a721b642b10d0735a3c2ff4, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _obstacles.Array.data[2]
-      value: 
-      objectReference: {fileID: 3992913877292486136, guid: 9c908bfc4527810428cae78e2eac3e46, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _obstacles.Array.data[3]
-      value: 
-      objectReference: {fileID: 7825190487421419863, guid: f45f80d80cecde8479d856266aa043f6, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _obstacles.Array.data[4]
-      value: 
-      objectReference: {fileID: 7825190487421419863, guid: f45f80d80cecde8479d856266aa043f6, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _obstacles.Array.data[5]
-      value: 
-      objectReference: {fileID: 4124323062290505003, guid: e021f2107856b97978976612624c27b8, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _obstacles.Array.data[6]
-      value: 
-      objectReference: {fileID: 4586183935837940532, guid: 3f7dd0e9bb47425f3b6515ab77926eb2, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _futureTeam.Array.data[2]
-      value: 
-      objectReference: {fileID: 3952430398348442102, guid: 34506ded587ff6c4a87a8be0d1cbd29a, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: _futureTeam.Array.data[3]
-      value: 
-      objectReference: {fileID: 6273680258552125420, guid: a4abdafd1caec7f4c8d8f6bd61dcbc83, type: 3}
-    - target: {fileID: 927317114, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: obstaclesLayerMask.m_Bits
-      value: 384
-      objectReference: {fileID: 0}
-    - target: {fileID: 2809042416330343909, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
-      propertyPath: isBusy
-      value: 0
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 4365155185574982603, guid: 22315c6371ff83440af62d93220499e2, type: 3}
     - target: {fileID: 2809042416432111271, guid: 4201736af44213e4f928433de8f9bdad, type: 3}
       propertyPath: nameText
       value: 
