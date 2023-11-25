@@ -15,6 +15,7 @@ public class CharacterStadistics : ScriptableObject
     public float powerAttack;
     public float healing;
 
+    public int _maxMoveDistance = 1;
     public int maxDamageIndex;
     public int maxAttackIndex;
 }

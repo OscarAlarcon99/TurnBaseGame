@@ -8,6 +8,7 @@ public class MoveAction : BaseAction
     [Header("Setup Move and Rotation")]
     [SerializeField] private float _moveSpeed = 2f;
     [SerializeField] private float _rotateSpeed = 30f;
+    Character character;
 
     [SerializeField] private int _maxMoveDistance = 1;
 
@@ -16,6 +17,12 @@ public class MoveAction : BaseAction
 
     public static event EventHandler OnStartMoving;
     public static event EventHandler OnStopMoving;
+
+    private void Start()
+    {
+        character = GetComponent<Character>();
+        _maxMoveDistance = character.characterStats._maxMoveDistance;
+    }
 
     private void Update()
     {

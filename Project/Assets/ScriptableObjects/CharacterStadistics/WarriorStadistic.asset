@@ -14,10 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Warrior
   characterType: 0
+  moveType: 0
   icon: {fileID: 21300000, guid: 7ebb76f678bcdbe418950367d9572e96, type: 3}
   teamColor: {r: 0.9960785, g: 0, b: 0, a: 1}
   initialLife: 100
-  powerAttack: 20
+  powerAttack: 30
   healing: 10
+  _maxMoveDistance: 1
   maxDamageIndex: 2
   maxAttackIndex: 3

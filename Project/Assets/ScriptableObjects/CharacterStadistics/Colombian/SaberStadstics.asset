@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b07011eccf211e24e9939ab45acb27fe, type: 3}
-  m_Name: SimonBolivar
+  m_Name: SaberStadstics
   m_EditorClassIdentifier: 
-  characterName: SimonBolivar
+  characterName: G. Simon Bolivar
   characterType: 0
   moveType: 1
-  icon: {fileID: 21300000, guid: 51902aa8f3779bb4cba05ab1a14ca4d0, type: 3}
+  icon: {fileID: 21300000, guid: a96900adefdbe8a4b86e8c8521d3e285, type: 3}
   teamColor: {r: 0.9960785, g: 0, b: 0, a: 1}
-  hasHorse: 0
   initialLife: 100
   powerAttack: 20
   healing: 20
+  _maxMoveDistance: 1
   maxDamageIndex: 2
   maxAttackIndex: 3
