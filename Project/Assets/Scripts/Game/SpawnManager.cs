@@ -29,7 +29,7 @@ public class SpawnManager : Singleton<SpawnManager>
 
     private void Start()
     {
-        SpawnObstacles();
+        //SpawnObstacles();
 
         //SpawnProps();
 

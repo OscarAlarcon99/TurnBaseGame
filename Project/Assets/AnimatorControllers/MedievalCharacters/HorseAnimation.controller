@@ -317,7 +317,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 176fac875603d3f419eb970f987aeab5, type: 3}
+  m_Motion: {fileID: 7400000, guid: 53b651195429fc443adb4aaba5548e5e, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -445,7 +445,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isHorse: 1
-  rider: {fileID: 0}
 --- !u!1101 &4643695397639514565
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -489,7 +488,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 0f779869c9d978b43a8c5da76a5213f6, type: 2}
+  m_Motion: {fileID: 7400000, guid: 32836d2ebdf539e4dae56bb00c7fcbfd, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 

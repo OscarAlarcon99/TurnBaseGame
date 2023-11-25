@@ -22,4 +22,4 @@ MonoBehaviour:
   healing: 20
   _maxMoveDistance: 1
   maxDamageIndex: 2
-  maxAttackIndex: 3
+  maxAttackIndex: 0

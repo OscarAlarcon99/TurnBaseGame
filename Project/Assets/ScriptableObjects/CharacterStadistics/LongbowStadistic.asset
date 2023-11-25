@@ -14,10 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Longbow
   characterType: 0
+  moveType: 0
   icon: {fileID: 21300000, guid: f509ccbd7ef4e174f9b3c6ced0751939, type: 3}
   teamColor: {r: 0.9960785, g: 0, b: 0, a: 1}
   initialLife: 100
   powerAttack: 20
   healing: 20
+  _maxMoveDistance: 2
   maxDamageIndex: 2
-  maxAttackIndex: 0
+  maxAttackIndex: 1

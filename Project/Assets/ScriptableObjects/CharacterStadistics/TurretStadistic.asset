@@ -14,10 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Turret
   characterType: 1
+  moveType: 0
   icon: {fileID: 21300000, guid: 5e79beed40f765a4d83ef70d86cb7852, type: 3}
   teamColor: {r: 0, g: 0, b: 1, a: 1}
   initialLife: 100
   powerAttack: 20
   healing: 20
-  maxDamageIndex: 0
+  _maxMoveDistance: 2
+  maxDamageIndex: 1
   maxAttackIndex: 2

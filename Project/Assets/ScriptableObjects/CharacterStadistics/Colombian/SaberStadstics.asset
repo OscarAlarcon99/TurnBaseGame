@@ -17,9 +17,9 @@ MonoBehaviour:
   moveType: 1
   icon: {fileID: 21300000, guid: a96900adefdbe8a4b86e8c8521d3e285, type: 3}
   teamColor: {r: 0.9960785, g: 0, b: 0, a: 1}
-  initialLife: 100
-  powerAttack: 20
+  initialLife: 130
+  powerAttack: 30
   healing: 20
-  _maxMoveDistance: 1
+  _maxMoveDistance: 3
   maxDamageIndex: 2
-  maxAttackIndex: 3
+  maxAttackIndex: 1
