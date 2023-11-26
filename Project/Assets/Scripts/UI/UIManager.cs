@@ -17,7 +17,7 @@ public class UIManager : Singleton<UIManager>
 
     [Header("Estats Panel Player")]
     [SerializeField] TMP_Text matches, level, points;
-    private float barLength = 1.4f, percentMultiplier = 100f;
+    private float barLength = 0.8f, percentMultiplier = 100f;
     private string levelStr;
     private List<double> valuesPie = new List<double>();
     private List<GameObject> provitionalGraphicsObjects = new List<GameObject>();

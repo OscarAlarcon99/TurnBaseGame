@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: d9128473fa4db574380f939acf49e465
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3950
+        width: 1186
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9506731eb320eca499fca5bea5af360b
+      internalID: 814356841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 3838
+        width: 959
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd1eaf01e730f46be81ba6792c2e87
+      internalID: 582068432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 3568
+        width: 472
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056302925f1c3c14fbad7588b3f91c8a
+      internalID: -1656188355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 3609
+        width: 671
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1d2a8eb47258b4088d7986d86a9998
+      internalID: 532103595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 5861
+        y: 3664
+        width: 631
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e488596eb49c9438b1afb83b0a73d1
+      internalID: 1616492282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 3720
+        width: 776
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e5cd9a846808b459ded56a2c9e1d8d
+      internalID: -1554815401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2591
+        width: 1841
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb016b037685e314aaa59d9ab796d794
+      internalID: -536406022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 2648
+        width: 962
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8524646b217695429395dc463b6d70b
+      internalID: 1212608691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 2771
+        width: 531
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad60e450be5e7cf40a822c5414b7a15f
+      internalID: -862943744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 3421
+        width: 114
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3dca4342b66be4a8ead866db7212d9
+      internalID: 1365242599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 2852
+        width: 789
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055dbf9a96a8dd64b9ed2121adaf031c
+      internalID: 1276916476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 2974
+        width: 967
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7cec0ca0d0cd84fbfb752872b36c86
+      internalID: -1962783672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2775
+        width: 579
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae8e1d0305398419e900c913e32d2c
+      internalID: 694359045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 5854
+        y: 2827
+        width: 700
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc88633a7a779da4ba449a2e2ac195b9
+      internalID: 266207909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1042
+        width: 1324
+        height: 1517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda6c94f11d0ae44ea35fc85d733d0fa
+      internalID: 1988597189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1766
+        width: 2043
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99e0f4aa8ebf7c4790b2155b7efb10b
+      internalID: -1123385612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 42
+        width: 2434
+        height: 2606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac6f4e4d32ff54581c3df860726649
+      internalID: 531256449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1090
+        width: 2317
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8257e91a24534a489a355718dec9956
+      internalID: -375499844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puente_Boyaca_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 338
+        width: 2268
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435a0d0dbd8468741a89088d37cfc5d5
+      internalID: -1370177447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Puente_Boyaca_Sprite_3: 532103595
+      Puente_Boyaca_Sprite_2: -1656188355
+      Puente_Boyaca_Sprite_15: -1123385612
+      Puente_Boyaca_Sprite_13: 266207909
+      Puente_Boyaca_Sprite_8: -862943744
+      Puente_Boyaca_Sprite_17: -375499844
+      Puente_Boyaca_Sprite_10: 1276916476
+      Puente_Boyaca_Sprite_0: 814356841
+      Puente_Boyaca_Sprite_14: 1988597189
+      Puente_Boyaca_Sprite_16: 531256449
+      Puente_Boyaca_Sprite_6: -536406022
+      Puente_Boyaca_Sprite_4: 1616492282
+      Puente_Boyaca_Sprite_1: 582068432
+      Puente_Boyaca_Sprite_18: -1370177447
+      Puente_Boyaca_Sprite_5: -1554815401
+      Puente_Boyaca_Sprite_9: 1365242599
+      Puente_Boyaca_Sprite_11: -1962783672
+      Puente_Boyaca_Sprite_7: 1212608691
+      Puente_Boyaca_Sprite_12: 694359045
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
