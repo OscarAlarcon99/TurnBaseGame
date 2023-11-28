@@ -27,17 +27,17 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2184331261113981928}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.9360958, y: 0.9578655, z: 0.93609583}
+  m_LocalPosition: {x: 0, y: 0, z: 0.0000055015}
+  m_LocalScale: {x: 0.5867138, y: 0.6003583, z: 0.58671385}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9205411175670917939}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.00012207031, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 16.599976, y: 19}
+  m_SizeDelta: {x: 209.522, y: 560.362}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3367217049728444853
 CanvasRenderer:
@@ -60,7 +60,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.8113208, g: 0.7204142, b: 0.54725885, a: 1}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -97,8 +97,8 @@ MonoBehaviour:
   m_ChildAlignment: 4
   m_StartCorner: 0
   m_StartAxis: 1
-  m_CellSize: {x: 120, y: 58.9}
-  m_Spacing: {x: 0, y: 2.8}
+  m_CellSize: {x: 200, y: 125.6}
+  m_Spacing: {x: 0, y: -20}
   m_Constraint: 0
   m_ConstraintCount: 2
 --- !u!1 &7346641917719617791
@@ -162,7 +162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.92244196, b: 0.19339621, a: 0}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -195,4 +195,4 @@ MonoBehaviour:
   statsHolder: []
   holderPrefab: {fileID: 5511236719556620543, guid: 59d394eea31131a469b5ff004b244c6c, type: 3}
   holderLayaut: {fileID: 2184331261113981928}
-  team: 0
+  team: 1
