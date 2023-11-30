@@ -47,8 +47,6 @@ public class CharacterAnimationController : MonoBehaviour
             {
                 riderReactive.HandIKPassEnabled = false;
                 riderAnim.SetBool("Die", true);
-                riderReactive.riderHeightAdjustment = -0.45f;
-                riderReactive.riderSaddlePosition = 0.2f;
             }
         }
         else

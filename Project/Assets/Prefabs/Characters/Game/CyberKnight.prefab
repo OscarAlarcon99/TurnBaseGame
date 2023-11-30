@@ -3318,7 +3318,6 @@ MonoBehaviour:
   characterStats: {fileID: 11400000, guid: 3bed6b286143e554eb052f4ff58c874b, type: 2}
   characterUI: {fileID: 2370639518637006993}
   currentLife: 0
-  _team: 1
 --- !u!114 &4132488603783541226
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3333,6 +3332,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   brain: {fileID: 4949496934640313317}
   anim: {fileID: 3499390291543986630}
+  riderReactive: {fileID: 0}
+  riderAnim: {fileID: 0}
   index: 0
   soundsCharacter:
   - {fileID: 11400000, guid: 18003bedfb867074187b1d64f56f4bc5, type: 2}
@@ -3424,11 +3425,12 @@ MonoBehaviour:
   _groundLayerMask:
     serializedVersion: 2
     m_Bits: 128
-  adjustedPosition: {x: 150, y: 150, z: 0}
+  adjustedPosition: {x: 100, y: 100, z: 0}
   boundaryMax: {x: -1750, y: -1000}
   canShow: 0
   isInteracting: 0
   isAction: 0
+  velocidadMovimiento: 10
 --- !u!1 &7886610565799225807
 GameObject:
   m_ObjectHideFlags: 0

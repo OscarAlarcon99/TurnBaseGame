@@ -22,6 +22,7 @@ public class CharacterStatsUI : MonoBehaviour
     public bool canShow;
     public bool isInteracting;
     public bool isAction;
+    public float velocidadMovimiento = 10f;
 
     private void Awake()
     {
@@ -118,9 +119,22 @@ public class CharacterStatsUI : MonoBehaviour
     void MoveGraphic()
     {
         Vector3 mousePosition = Input.mousePosition + adjustedPosition;
-        Vector3 screenBounds = mousePosition;
-        screenBounds.x = Mathf.Clamp(mousePosition.x, boundaryMax.x, boundaryMax.x * -1);
-        screenBounds.y = Mathf.Clamp(mousePosition.y, boundaryMax.y, boundaryMax.y * -1);
-        individualStatsPanel.transform.position = screenBounds;
+
+        // Limitar la posición dentro de los límites de la pantalla
+        float panelWidth = individualStatsPanel.rect.width;
+        float panelHeight = individualStatsPanel.rect.height;
+
+        float xMin = panelWidth / 2;
+        float xMax = Screen.width - panelWidth / 2;
+        float yMin = panelHeight / 2;
+        float yMax = Screen.height - panelHeight / 2;
+
+        float clampedX = Mathf.Clamp(mousePosition.x, xMin, xMax - 25f);
+        float clampedY = Mathf.Clamp(mousePosition.y, yMin, yMax - 25f);
+
+        Vector3 targetPosition = new Vector3(clampedX, clampedY, Camera.main.nearClipPlane);
+
+        // Mover el panel hacia la posición del mouse suavemente
+        individualStatsPanel.position = Vector3.Lerp(individualStatsPanel.position, targetPosition, Time.deltaTime * velocidadMovimiento);
     }
 }

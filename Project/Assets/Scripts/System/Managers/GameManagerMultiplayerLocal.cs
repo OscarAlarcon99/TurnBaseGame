@@ -3,10 +3,12 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Playables;
 
 public class GameManagerMultiplayerLocal : GameManager
 {
     [SerializeField] private GameObject camera1, camera2;
+    [SerializeField] private PlayableDirector[] playable;
     private void Start()
     {
         TurnSystemManager.Instance.OnTurnChanged += ToggleCamera;
@@ -29,13 +31,17 @@ public class GameManagerMultiplayerLocal : GameManager
     {
         if (TurnSystemManager.Instance.GetTeamTurn() == Team.Team1)
         {
-            camera1.SetActive(true);
-            camera2.SetActive(false);
+            if (!camera1.activeInHierarchy)
+            {
+                playable[0].Play();
+            }
         }
         else
         {
-            camera1.SetActive(false);
-            camera2.SetActive(true);
+            if (!camera2.activeInHierarchy)
+            {
+                playable[1].Play();
+            }
         }
     }
 
@@ -58,12 +64,12 @@ public class GameManagerMultiplayerLocal : GameManager
         {
             if (_spawnManager.SpawnedMedievalTeam.Count > 0)
             {
-                message = "Medieval Team Wins";
+                message = "COLOMBIAN Team Wins";
             }
 
             if (_spawnManager.SpawnedFutureTeam.Count > 0)
             {
-                message = "Future Team Wins";
+                message = "SPANISH Team Wins";
             }
             
            StartCoroutine(EndMatch());

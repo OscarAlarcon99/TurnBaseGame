@@ -25,6 +25,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 670f631cafe5ffe4490497f30f1a7462, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isHorse: 0
 --- !u!206 &-7846595636527099968
 BlendTree:
   m_ObjectHideFlags: 1
