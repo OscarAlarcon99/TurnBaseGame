@@ -11,6 +11,7 @@ TagManager:
   - PersonalStatsPanel
   - StatsPanel
   - HandR
+  - HandREnemy
   layers:
   - Default
   - TransparentFX

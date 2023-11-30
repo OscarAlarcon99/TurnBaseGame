@@ -1,0 +1,1638 @@
+fileFormatVersion: 2
+guid: 3ae5a5e68b34a284d9bc013892d8bd25
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bone
+  - first:
+      1: 100002
+    second: Bone.001
+  - first:
+      1: 100004
+    second: Bone.002
+  - first:
+      1: 100006
+    second: Bone.003
+  - first:
+      1: 100008
+    second: Bone.004
+  - first:
+      1: 100010
+    second: Bone.005
+  - first:
+      1: 100012
+    second: Bone.006
+  - first:
+      1: 100014
+    second: Bone.007
+  - first:
+      1: 100016
+    second: Bone.008
+  - first:
+      1: 100018
+    second: Bone.008_end
+  - first:
+      1: 100020
+    second: Bone.009
+  - first:
+      1: 100022
+    second: Bone.009_end
+  - first:
+      1: 100024
+    second: Bone.010
+  - first:
+      1: 100026
+    second: Bone.011
+  - first:
+      1: 100028
+    second: Bone.012
+  - first:
+      1: 100030
+    second: Bone.012_end
+  - first:
+      1: 100032
+    second: Bone.013
+  - first:
+      1: 100034
+    second: Bone.013_end
+  - first:
+      1: 100036
+    second: Bone.014
+  - first:
+      1: 100038
+    second: Bone.015
+  - first:
+      1: 100040
+    second: Bone.016
+  - first:
+      1: 100042
+    second: Bone.017
+  - first:
+      1: 100044
+    second: Bone.018
+  - first:
+      1: 100046
+    second: Bone.019
+  - first:
+      1: 100048
+    second: Bone.020
+  - first:
+      1: 100050
+    second: Bone.021
+  - first:
+      1: 100052
+    second: Bone.022
+  - first:
+      1: 100054
+    second: Bone.022_end
+  - first:
+      1: 100056
+    second: Bone.023
+  - first:
+      1: 100058
+    second: Bone.023_end
+  - first:
+      1: 100060
+    second: Bone.024
+  - first:
+      1: 100062
+    second: Bone.025
+  - first:
+      1: 100064
+    second: Bone.025_end
+  - first:
+      1: 100066
+    second: Flammenwerfer
+  - first:
+      1: 100068
+    second: Hat
+  - first:
+      1: 100070
+    second: Jacket
+  - first:
+      1: 100072
+    second: K98
+  - first:
+      1: 100074
+    second: Luger_P08
+  - first:
+      1: 100076
+    second: MG42
+  - first:
+      1: 100078
+    second: MP40
+  - first:
+      1: 100080
+    second: Panzerfaust_launcher
+  - first:
+      1: 100082
+    second: PanzerSchreck
+  - first:
+      1: 100084
+    second: //RootNode
+  - first:
+      1: 100086
+    second: Schutzstaffel_A
+  - first:
+      1: 100088
+    second: SchutzStaffel_A_rig
+  - first:
+      1: 100090
+    second: STG44
+  - first:
+      1: 100092
+    second: Throusers
+  - first:
+      1: 100094
+    second: Weapon_handle
+  - first:
+      1: 100096
+    second: Weapon_handle.001
+  - first:
+      1: 100098
+    second: Weapon_handle.001_end
+  - first:
+      1: 100100
+    second: Weapon_handle.002
+  - first:
+      1: 100102
+    second: Weapon_handle.002_end
+  - first:
+      1: 100104
+    second: Weapon_handle.003
+  - first:
+      1: 100106
+    second: Weapon_handle.003_end
+  - first:
+      1: 100108
+    second: Weapon_handle.004
+  - first:
+      1: 100110
+    second: Weapon_handle.004_end
+  - first:
+      1: 100112
+    second: Weapon_handle_end
+  - first:
+      4: 400000
+    second: Bone
+  - first:
+      4: 400002
+    second: Bone.001
+  - first:
+      4: 400004
+    second: Bone.002
+  - first:
+      4: 400006
+    second: Bone.003
+  - first:
+      4: 400008
+    second: Bone.004
+  - first:
+      4: 400010
+    second: Bone.005
+  - first:
+      4: 400012
+    second: Bone.006
+  - first:
+      4: 400014
+    second: Bone.007
+  - first:
+      4: 400016
+    second: Bone.008
+  - first:
+      4: 400018
+    second: Bone.008_end
+  - first:
+      4: 400020
+    second: Bone.009
+  - first:
+      4: 400022
+    second: Bone.009_end
+  - first:
+      4: 400024
+    second: Bone.010
+  - first:
+      4: 400026
+    second: Bone.011
+  - first:
+      4: 400028
+    second: Bone.012
+  - first:
+      4: 400030
+    second: Bone.012_end
+  - first:
+      4: 400032
+    second: Bone.013
+  - first:
+      4: 400034
+    second: Bone.013_end
+  - first:
+      4: 400036
+    second: Bone.014
+  - first:
+      4: 400038
+    second: Bone.015
+  - first:
+      4: 400040
+    second: Bone.016
+  - first:
+      4: 400042
+    second: Bone.017
+  - first:
+      4: 400044
+    second: Bone.018
+  - first:
+      4: 400046
+    second: Bone.019
+  - first:
+      4: 400048
+    second: Bone.020
+  - first:
+      4: 400050
+    second: Bone.021
+  - first:
+      4: 400052
+    second: Bone.022
+  - first:
+      4: 400054
+    second: Bone.022_end
+  - first:
+      4: 400056
+    second: Bone.023
+  - first:
+      4: 400058
+    second: Bone.023_end
+  - first:
+      4: 400060
+    second: Bone.024
+  - first:
+      4: 400062
+    second: Bone.025
+  - first:
+      4: 400064
+    second: Bone.025_end
+  - first:
+      4: 400066
+    second: Flammenwerfer
+  - first:
+      4: 400068
+    second: Hat
+  - first:
+      4: 400070
+    second: Jacket
+  - first:
+      4: 400072
+    second: K98
+  - first:
+      4: 400074
+    second: Luger_P08
+  - first:
+      4: 400076
+    second: MG42
+  - first:
+      4: 400078
+    second: MP40
+  - first:
+      4: 400080
+    second: Panzerfaust_launcher
+  - first:
+      4: 400082
+    second: PanzerSchreck
+  - first:
+      4: 400084
+    second: //RootNode
+  - first:
+      4: 400086
+    second: Schutzstaffel_A
+  - first:
+      4: 400088
+    second: SchutzStaffel_A_rig
+  - first:
+      4: 400090
+    second: STG44
+  - first:
+      4: 400092
+    second: Throusers
+  - first:
+      4: 400094
+    second: Weapon_handle
+  - first:
+      4: 400096
+    second: Weapon_handle.001
+  - first:
+      4: 400098
+    second: Weapon_handle.001_end
+  - first:
+      4: 400100
+    second: Weapon_handle.002
+  - first:
+      4: 400102
+    second: Weapon_handle.002_end
+  - first:
+      4: 400104
+    second: Weapon_handle.003
+  - first:
+      4: 400106
+    second: Weapon_handle.003_end
+  - first:
+      4: 400108
+    second: Weapon_handle.004
+  - first:
+      4: 400110
+    second: Weapon_handle.004_end
+  - first:
+      4: 400112
+    second: Weapon_handle_end
+  - first:
+      43: 4300000
+    second: Throusers
+  - first:
+      43: 4300002
+    second: Jacket
+  - first:
+      43: 4300004
+    second: Hat
+  - first:
+      43: 4300006
+    second: STG44
+  - first:
+      43: 4300008
+    second: Panzerfaust_launcher
+  - first:
+      43: 4300010
+    second: PanzerSchreck
+  - first:
+      43: 4300012
+    second: Flammenwerfer
+  - first:
+      43: 4300014
+    second: MG42
+  - first:
+      43: 4300016
+    second: Luger_P08
+  - first:
+      43: 4300018
+    second: K98
+  - first:
+      43: 4300020
+    second: MP40
+  - first:
+      43: 4300022
+    second: Schutzstaffel_A
+  - first:
+      74: 7400000
+    second: SchutzStaffel_A_rig|Deleted
+  - first:
+      74: 7400002
+    second: SchutzStaffel_A_rig|Flammenwerfer_idle
+  - first:
+      74: 7400004
+    second: SchutzStaffel_A_rig|Idle
+  - first:
+      74: 7400006
+    second: SchutzStaffel_A_rig|K98_aim
+  - first:
+      74: 7400008
+    second: SchutzStaffel_A_rig|K98_idle
+  - first:
+      74: 7400010
+    second: SchutzStaffel_A_rig|K98_reload
+  - first:
+      74: 7400012
+    second: SchutzStaffel_A_rig|K98_reload_Shoot
+  - first:
+      74: 7400014
+    second: SchutzStaffel_A_rig|Luger_aim
+  - first:
+      74: 7400016
+    second: SchutzStaffel_A_rig|Luger_idle
+  - first:
+      74: 7400018
+    second: SchutzStaffel_A_rig|Luger_reload
+  - first:
+      74: 7400020
+    second: SchutzStaffel_A_rig|MG42_aim
+  - first:
+      74: 7400022
+    second: SchutzStaffel_A_rig|MG42_idle
+  - first:
+      74: 7400024
+    second: SchutzStaffel_A_rig|MG42_reload
+  - first:
+      74: 7400026
+    second: SchutzStaffel_A_rig|MP40_aim
+  - first:
+      74: 7400028
+    second: SchutzStaffel_A_rig|MP40_idle
+  - first:
+      74: 7400030
+    second: SchutzStaffel_A_rig|MP40_reload
+  - first:
+      74: 7400032
+    second: SchutzStaffel_A_rig|Panzerfaust_idle
+  - first:
+      74: 7400034
+    second: SchutzStaffel_A_rig|Panzerfaust_reload
+  - first:
+      74: 7400036
+    second: SchutzStaffel_A_rig|Panzerschreck_idle
+  - first:
+      74: 7400038
+    second: SchutzStaffel_A_rig|Panzerschreck_Reload
+  - first:
+      74: 7400040
+    second: SchutzStaffel_A_rig|STG44_Aim
+  - first:
+      74: 7400042
+    second: SchutzStaffel_A_rig|STG44_idle
+  - first:
+      74: 7400044
+    second: SchutzStaffel_A_rig|STG44_reload
+  - first:
+      74: 7400046
+    second: SchutzStaffel_A_rig|Walk
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Flammenwerfer
+  - first:
+      137: 13700002
+    second: Hat
+  - first:
+      137: 13700004
+    second: Jacket
+  - first:
+      137: 13700006
+    second: K98
+  - first:
+      137: 13700008
+    second: Luger_P08
+  - first:
+      137: 13700010
+    second: MG42
+  - first:
+      137: 13700012
+    second: MP40
+  - first:
+      137: 13700014
+    second: Panzerfaust_launcher
+  - first:
+      137: 13700016
+    second: PanzerSchreck
+  - first:
+      137: 13700018
+    second: Schutzstaffel_A
+  - first:
+      137: 13700020
+    second: STG44
+  - first:
+      137: 13700022
+    second: Throusers
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bullet_magazine
+    second: {fileID: 2100000, guid: e949286cfecfb8c48b90b8edf550215b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bullet_magazine.001
+    second: {fileID: 2100000, guid: ecc08f75a0b72e84f86ed05fdc3818f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bullets
+    second: {fileID: 2100000, guid: e51a55cd65240bc409bba7da686cbe3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bullets_magazine
+    second: {fileID: 2100000, guid: acea4c8a14db8a74ba779a4afc699b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bullets_magazine.001
+    second: {fileID: 2100000, guid: a68da2d2e5cd7ea4f8694c0717438e40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main
+    second: {fileID: 2100000, guid: 16d194e0908c4244ca62fc8f4570bee4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main.001
+    second: {fileID: 2100000, guid: aadf2cf3257341b4c88e7224e639acf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main.002
+    second: {fileID: 2100000, guid: a0d36abd4bdfb194eb109ecbd8a81b56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main.003
+    second: {fileID: 2100000, guid: 0a25b5afd5570524ebb19d31b9a0c55b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main.004
+    second: {fileID: 2100000, guid: 2abbf24ee9872724f82f1a1225fe2420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main.005
+    second: {fileID: 2100000, guid: 2753219616c3c454a9b945b27dc18c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main.006
+    second: {fileID: 2100000, guid: dadbe41f1e12fb243a5973896e5ad482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: d60bd022b938aaf4495c03944bdc5a54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rocket_reload
+    second: {fileID: 2100000, guid: ed2e56be5394fff419d8faf7d6b0fe73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SchutzStaffel_throusers
+    second: {fileID: 2100000, guid: 7ab7fb2d66b31394b98b2730e73aabdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schutzstaffel_A
+    second: {fileID: 2100000, guid: 70e7dfbe240ae7e4780c6988fe1038ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schutzstaffel_hat
+    second: {fileID: 2100000, guid: 9fa60a04cb262244498423620974c285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schutzstaffel_jacket
+    second: {fileID: 2100000, guid: 26c03df72b6b35c4b8861a02e08beea2, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Head' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|Flammenwerfer_idle
+      takeName: SchutzStaffel_A_rig|Flammenwerfer_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|Idle
+      takeName: SchutzStaffel_A_rig|Idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|K98_aim
+      takeName: SchutzStaffel_A_rig|K98_aim
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|K98_idle
+      takeName: SchutzStaffel_A_rig|K98_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|K98_reload
+      takeName: SchutzStaffel_A_rig|K98_reload
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|K98_reload_Shoot
+      takeName: SchutzStaffel_A_rig|K98_reload_Shoot
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|Luger_aim
+      takeName: SchutzStaffel_A_rig|Luger_aim
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|Luger_idle
+      takeName: SchutzStaffel_A_rig|Luger_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|Luger_reload
+      takeName: SchutzStaffel_A_rig|Luger_reload
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|MG42_aim
+      takeName: SchutzStaffel_A_rig|MG42_aim
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|MG42_idle
+      takeName: SchutzStaffel_A_rig|MG42_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|MG42_reload
+      takeName: SchutzStaffel_A_rig|MG42_reload
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|MP40_aim
+      takeName: SchutzStaffel_A_rig|MP40_aim
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|MP40_idle
+      takeName: SchutzStaffel_A_rig|MP40_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|MP40_reload
+      takeName: SchutzStaffel_A_rig|MP40_reload
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|Panzerfaust_idle
+      takeName: SchutzStaffel_A_rig|Panzerfaust_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|Panzerfaust_reload
+      takeName: SchutzStaffel_A_rig|Panzerfaust_reload
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|Panzerschreck_idle
+      takeName: SchutzStaffel_A_rig|Panzerschreck_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|Panzerschreck_Reload
+      takeName: SchutzStaffel_A_rig|Panzerschreck_Reload
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|STG44_Aim
+      takeName: SchutzStaffel_A_rig|STG44_Aim
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|STG44_idle
+      takeName: SchutzStaffel_A_rig|STG44_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|STG44_reload
+      takeName: SchutzStaffel_A_rig|STG44_reload
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SchutzStaffel_A_rig|Walk
+      takeName: SchutzStaffel_A_rig|Walk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: SchutzStaffel_A(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SchutzStaffel_A_rig
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: -0.00024603558, y: 0.85304505, z: 0.03514203}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 29.455208, y: 29.455208, z: 29.455208}
+    - name: Bone
+      parentName: SchutzStaffel_A_rig
+      position: {x: -0, y: 0, z: -0.0019177647}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: -0, y: 0.010993346, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: -0, y: 0.009412176, z: 9.3132255e-12}
+      rotation: {x: 0.56545866, y: -0.42456627, z: -0.5654587, w: -0.42456633}
+      scale: {x: 1.0000017, y: 1.0000011, z: 1.000001}
+    - name: Bone.004
+      parentName: Bone.002
+      position: {x: -2.3774138e-12, y: 0.0066127437, z: 9.327777e-10}
+      rotation: {x: 0.14089231, y: 0.000000014901159, z: -0, w: 0.9900249}
+      scale: {x: 1.000002, y: 1.0000014, z: 1.0000024}
+    - name: Bone.006
+      parentName: Bone.004
+      position: {x: -0, y: 0.010282364, z: -2.9802322e-10}
+      rotation: {x: 0.00000008940696, y: -0.0000000105536015, z: 0.0000000316045, w: 1}
+      scale: {x: 1.0000014, y: 1.0000012, z: 1.0000012}
+    - name: Bone.008
+      parentName: Bone.006
+      position: {x: 0.000000001490116, y: 0.013885754, z: -0.000000001117587}
+      rotation: {x: -0.3780039, y: 0.000000036035, z: 0.00000017325387, w: -0.92580396}
+      scale: {x: 1.0000026, y: 1.0000013, z: 1.0000012}
+    - name: Bone.008_end
+      parentName: Bone.008
+      position: {x: -0, y: 0.0040640444, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.010
+      parentName: Bone.006
+      position: {x: 0.000000001490116, y: 0.013885754, z: -0.000000001117587}
+      rotation: {x: -0.000000014901168, y: 0.000000004198922, z: 0.000000029505038, w: -1}
+      scale: {x: 1.0000013, y: 1.0000008, z: 1.0000008}
+    - name: Bone.012
+      parentName: Bone.010
+      position: {x: 2.9802322e-10, y: 0.0030382161, z: -0.0000000011920929}
+      rotation: {x: -1.1546318e-14, y: 0.00000011166547, z: 0.00000004431386, w: 1}
+      scale: {x: 1.0000015, y: 1.0000023, z: 1.0000013}
+    - name: Bone.012_end
+      parentName: Bone.012
+      position: {x: -0, y: 0.0027881716, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.003
+      parentName: Bone.001
+      position: {x: -0, y: 0.009412176, z: 9.3132255e-12}
+      rotation: {x: 0.5651366, y: 0.42499495, z: 0.5651365, w: -0.424995}
+      scale: {x: 1.0000019, y: 1.0000021, z: 1.0000015}
+    - name: Bone.005
+      parentName: Bone.003
+      position: {x: 1.2173284e-12, y: 0.0066474574, z: 0.0000000019832804}
+      rotation: {x: 0.14014153, y: 0.000000059604638, z: -0, w: 0.9901315}
+      scale: {x: 1.0000024, y: 1.0000008, z: 1.0000023}
+    - name: Bone.007
+      parentName: Bone.005
+      position: {x: -4.4703483e-10, y: 0.010282363, z: -7.4505804e-11}
+      rotation: {x: 0.0000000745058, y: 0.000000012802046, z: -0.0000001222094, w: 1}
+      scale: {x: 1.0000017, y: 1.0000017, z: 1.0000025}
+    - name: Bone.009
+      parentName: Bone.007
+      position: {x: 4.2840836e-10, y: 0.01388576, z: -1.4901161e-10}
+      rotation: {x: -0.37800398, y: -0.000000008194992, z: -0.000000114338185, w: -0.925804}
+      scale: {x: 1.0000019, y: 1.0000019, z: 1.0000002}
+    - name: Bone.009_end
+      parentName: Bone.009
+      position: {x: -0, y: 0.0040640444, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.011
+      parentName: Bone.007
+      position: {x: 4.2840836e-10, y: 0.01388576, z: -1.4901161e-10}
+      rotation: {x: -0.000000104308114, y: -0.000000002224488, z: 0.00000009061291, w: 1}
+      scale: {x: 1.0000011, y: 1.0000007, z: 1.0000008}
+    - name: Bone.013
+      parentName: Bone.011
+      position: {x: -4.2840836e-10, y: 0.0030382157, z: 3.72529e-10}
+      rotation: {x: 0.000000029802319, y: -0.000000010577565, z: 0.00000003159649, w: 1}
+      scale: {x: 1.0000017, y: 1.0000014, z: 1.0000017}
+    - name: Bone.013_end
+      parentName: Bone.013
+      position: {x: -0, y: 0.0027881716, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Weapon_handle
+      parentName: Bone.011
+      position: {x: 0.001330191, y: 0.00406372, z: -0.0037019153}
+      rotation: {x: -0.061716437, y: -0.7402704, z: 0.009145355, w: -0.66940814}
+      scale: {x: 1.0000011, y: 0.9688811, z: 0.99999934}
+    - name: Weapon_handle_end
+      parentName: Weapon_handle
+      position: {x: -0, y: 0.0035292457, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Weapon_handle.001
+      parentName: Bone.011
+      position: {x: 0.00097574934, y: 0.009343485, z: -0.000240276}
+      rotation: {x: -0.0617174, y: -0.7402702, z: 0.009144751, w: -0.6694083}
+      scale: {x: 1.000001, y: 1.0000002, z: 0.9999992}
+    - name: Weapon_handle.001_end
+      parentName: Weapon_handle.001
+      position: {x: -0, y: 0.0035292457, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Weapon_handle.002
+      parentName: Bone.011
+      position: {x: 0.040220823, y: 0.0030382122, z: 0.000000001490116}
+      rotation: {x: -0.50000006, y: -0.49999997, z: -0.50000006, w: -0.50000006}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000001}
+    - name: Weapon_handle.002_end
+      parentName: Weapon_handle.002
+      position: {x: -0, y: 0.0035292457, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Weapon_handle.003
+      parentName: Bone.011
+      position: {x: 0.049130306, y: 0.003038212, z: 0.0000000017881393}
+      rotation: {x: -0.5000001, y: -0.4999999, z: -0.49999994, w: -0.5}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Weapon_handle.003_end
+      parentName: Weapon_handle.003
+      position: {x: -0, y: 0.0035292457, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Weapon_handle.004
+      parentName: Bone.011
+      position: {x: 0.060492367, y: 0.00303821, z: 0.0000000013411044}
+      rotation: {x: -0.5000001, y: -0.4999999, z: -0.49999994, w: -0.5}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Weapon_handle.004_end
+      parentName: Weapon_handle.004
+      position: {x: -0, y: 0.0035292457, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.024
+      parentName: Bone.001
+      position: {x: -0, y: 0.009412176, z: 9.3132255e-12}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Bone.025
+      parentName: Bone.024
+      position: {x: -0, y: 0.003027337, z: -4.6566128e-12}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Bone.025_end
+      parentName: Bone.025
+      position: {x: -0, y: 0.007923107, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.014
+      parentName: SchutzStaffel_A_rig
+      position: {x: -0, y: 8.881784e-18, z: -0.0019177647}
+      rotation: {x: 0.02862704, y: 0.0286271, z: -0.70652705, w: -0.7065271}
+      scale: {x: 1.000001, y: 1.0000013, z: 1.0000012}
+    - name: Bone.016
+      parentName: Bone.014
+      position: {x: 1.11022296e-17, y: 0.0034378793, z: -9.313225e-11}
+      rotation: {x: -0.4658507, y: 0.53196156, z: -0.46585074, w: 0.5319616}
+      scale: {x: 1.0000004, y: 1.0000037, z: 1.0000055}
+    - name: Bone.018
+      parentName: Bone.016
+      position: {x: -1.4901161e-10, y: 0.010666154, z: -0.0000000012818898}
+      rotation: {x: 0.011594012, y: -0.00020247698, z: -0.017510459, w: 0.99977946}
+      scale: {x: 0.99999917, y: 0.9999998, z: 1.0000006}
+    - name: Bone.020
+      parentName: Bone.018
+      position: {x: 5.587935e-10, y: 0.0146862, z: 1.03173074e-10}
+      rotation: {x: 0.0062390454, y: 0.7502029, z: -0.6611574, w: -0.0052459002}
+      scale: {x: 1.0000052, y: 1.000004, z: 1.0000035}
+    - name: Bone.022
+      parentName: Bone.020
+      position: {x: 5.3253187e-11, y: 0.0043911277, z: 0.0000000017567373}
+      rotation: {x: 0.07453546, y: -0.00000077160064, z: 0.00000006426125, w: 0.9972184}
+      scale: {x: 1.000003, y: 0.99999905, z: 1.0000019}
+    - name: Bone.022_end
+      parentName: Bone.022
+      position: {x: -0, y: 0.0042004297, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.015
+      parentName: SchutzStaffel_A_rig
+      position: {x: 9.3132255e-12, y: 3.5527136e-17, z: -0.0019177645}
+      rotation: {x: 0.028572768, y: -0.028572887, z: 0.70652926, w: -0.70652926}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000014}
+    - name: Bone.017
+      parentName: Bone.015
+      position: {x: -4.440892e-18, y: 0.0034443939, z: 7.4505804e-11}
+      rotation: {x: -0.46589163, y: -0.53192586, z: 0.46589148, w: 0.5319258}
+      scale: {x: 1.000001, y: 1.0000032, z: 1.0000057}
+    - name: Bone.019
+      parentName: Bone.017
+      position: {x: -3.213063e-10, y: 0.010666157, z: 2.9619437e-10}
+      rotation: {x: 0.011594191, y: 0.00020244718, z: 0.017510474, w: 0.99977946}
+      scale: {x: 1.0000002, y: 0.9999999, z: 0.9999997}
+    - name: Bone.021
+      parentName: Bone.019
+      position: {x: 5.5879353e-11, y: 0.0146862, z: 1.90048e-10}
+      rotation: {x: -0.006238151, y: 0.7502029, z: -0.6611574, w: 0.005244843}
+      scale: {x: 1.0000039, y: 1.0000023, z: 1.0000018}
+    - name: Bone.023
+      parentName: Bone.021
+      position: {x: -3.202183e-10, y: 0.004391126, z: 0.000000004717412}
+      rotation: {x: 0.0745355, y: -0.0000006193295, z: 0.00000009685755, w: 0.9972184}
+      scale: {x: 1.0000031, y: 1.0000005, z: 1.000002}
+    - name: Bone.023_end
+      parentName: Bone.023
+      position: {x: -0, y: 0.0042004297, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Throusers
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 0.00046537837, y: 0.37186027, z: 0.037778057}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Jacket
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 0.00058165565, y: 1.3205676, z: 0.074053854}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Hat
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 0.0032371432, y: 1.7211181, z: 0.014441026}
+      rotation: {x: -0.5, y: 0.5, z: 0.49999997, w: 0.50000006}
+      scale: {x: 4.5908985, y: 4.5908985, z: 4.5908985}
+    - name: STG44
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 0.99883175, y: 1.4901742, z: 1.3894235}
+      rotation: {x: 0.0000000842937, y: 0.7071067, z: 0.7071068, w: -0.000000022476454}
+      scale: {x: 3.5761733, y: 3.3422596, z: 3.3422596}
+    - name: Panzerfaust_launcher
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 0.9879582, y: 1.445986, z: 0.6001346}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 7.228234, y: 7.228234, z: 7.228234}
+    - name: PanzerSchreck
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 1.0172584, y: 1.4745685, z: 0.19318978}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 16.519564, y: 16.519564, z: 16.519564}
+    - name: Flammenwerfer
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 1.2123084, y: 1.6701422, z: 0.65694404}
+      rotation: {x: -0.0000000842937, y: 0.7071067, z: 0.7071068, w: 0.000000022476454}
+      scale: {x: 14.169875, y: 14.169875, z: 14.169875}
+    - name: MG42
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 0.9655928, y: 1.3227983, z: 0.7485979}
+      rotation: {x: -0.50000006, y: 0.4999999, z: 0.5, w: 0.5}
+      scale: {x: 15.023785, y: 15.023785, z: 15.023786}
+    - name: Luger_P08
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 0.9913043, y: 1.1697433, z: 0.8819027}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 3.2560282, y: 3.2560282, z: 3.2560282}
+    - name: K98
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 1.0028524, y: 1.3648074, z: 0.8216079}
+      rotation: {x: -0.000000022476476, y: 0.7071067, z: 0.7071068, w: 0.0000000842937}
+      scale: {x: 12.614253, y: 12.614253, z: 12.614255}
+    - name: MP40
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 1.0034416, y: 1.5423447, z: 0.8706733}
+      rotation: {x: -0.50000006, y: -0.4999999, z: -0.5, w: 0.5}
+      scale: {x: 6.606152, y: 6.606152, z: 6.6061525}
+    - name: Schutzstaffel_A
+      parentName: SchutzStaffel_A(Clone)
+      position: {x: 5.820766e-11, y: -0.00000011920929, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -146,15 +146,27 @@ public class ReactiveRider : MonoBehaviour
     {
         if (rider == null)
         {
-            rider = Instantiate(riderPrefab, null);
+            rider = Instantiate(riderPrefab, null);          
+        }
+        
+        Character character = GetComponentInParent<Character>();
+
+        if (character.characterStats._team == Team.Team1)
+        {
             riderRightHand = GameObject.FindGameObjectWithTag("HandR").transform;
-            updatePositionEveryFrame = true;
         }
         else
         {
-            riderRightHand = GameObject.FindGameObjectWithTag("HandR").transform;
-            updatePositionEveryFrame = true;
+            riderRightHand = GameObject.FindGameObjectWithTag("HandREnemy").transform;
         }
+
+        updatePositionEveryFrame = true;
+    }
+
+
+    Transform FindHand(Transform padre, string nombre)
+    {
+        return padre.Find(nombre);
     }
 
     void Start()

@@ -6,7 +6,7 @@ using UnityEngine;
 public class CharacterStadistics : ScriptableObject
 {
     public string characterName;
-    public CharacterType characterType;
+    public Team _team;
     public CharacterMoveType moveType;
     public Sprite icon;
     public Color teamColor;

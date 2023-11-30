@@ -11,8 +11,6 @@ public class GameManagerMultiplayerLocal : GameManager
     {
         TurnSystemManager.Instance.OnTurnChanged += ToggleCamera;
         base.Start();
-        TurnSystemManager.Instance.player1name = "MEDIEVAL TEAM";
-        TurnSystemManager.Instance.player2name = "FUTURE TEAM";
     }
 
     protected override void StartGame()

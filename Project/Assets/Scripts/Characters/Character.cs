@@ -18,8 +18,6 @@ public class Character : MonoBehaviour
     public List<BaseAction> ActionsTaken { get; private set; }
     public List<BaseAction> RemainingActions { get; private set; }
 
-    [SerializeField] private Team _team;
-
     public event EventHandler OnGetDamaged;
     public event EventHandler OnHeal;
     public static event EventHandler OnDead;
@@ -151,7 +149,7 @@ public class Character : MonoBehaviour
         }
     }
 
-    public Team GetCharacterTeam() => _team;
+    public Team GetCharacterTeam() => characterStats._team;
 
     private void TurnSystemManager_OnTurnChanged(object sender, EventArgs e)
     {
